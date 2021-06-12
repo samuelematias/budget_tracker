@@ -24,7 +24,7 @@ class App extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Budget Tracker',
       home: const BudgetTrackerPage(),
-      theme: ThemeData.dark(),
+      theme: ThemeData(primaryColor: Colors.white),
     );
   }
 }
