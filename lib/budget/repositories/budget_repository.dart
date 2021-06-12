@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'dart:developer';
 import 'dart:io';
 
 import 'package:budget_tracker/budget/models/failure_model.dart';
@@ -41,8 +40,6 @@ class BudgetRepository {
         throw const FailureModel(message: 'Something went wrong!');
       }
     } catch (e) {
-      log('ERROR LOL: $e');
-      // print('ERROR LOL: $e');
       throw const FailureModel(message: 'Something went wrong!');
     }
   }
