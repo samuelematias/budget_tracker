@@ -24,9 +24,7 @@ Yes, Notion now has an open API, for more information click [here](https://www.n
 <br/>
 
 ### How get the NOTION_API_KEY and NOTION_DATABASE_ID 🔑
-Follow [this steps](https://www.youtube.com/watch?v=3vhWx2LT-SY&t=180s)
-
-
+Follow [this steps](https://www.youtube.com/watch?v=3vhWx2LT-SY&t=180s).
 
 ## Tech Stack 👩🏾‍💻
 
